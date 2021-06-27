@@ -5,7 +5,7 @@ I am currently a junior pursuing my B.Tech in Computer Science & Engineering (Wi
 I spend my free time listening to podcasts/music, reading novels, playing video games and cycling.
 
 
-![](https://komarev.com/ghpvc/?username=RohanMathu17&color=green&label=Profile+Visits)
+![](https://komarev.com/ghpvc/?username=RohanMathur17&color=green&label=Profile+Visits)
 
 ## Have A Look At Some Of My Projects
 
@@ -34,6 +34,10 @@ I spend my free time listening to podcasts/music, reading novels, playing video 
     <a href="https://medium.com/@RohanMathur">
         <img style = "padding: 0px 30px 0px 0px;" src = "https://github.com/newb-dev-1008/newb-dev-1008/blob/main/Icons/Socials/Medium.png" alt = "Medium" width = "48"/>
     </a>
+    <a href="rohan.mathur0@gmail.com">
+        <img style = "padding: 0px 30px 0px 0px;" src = "https://github.com/RohanMathur17/RohanMathur17/blob/main/Icons/gmail.png" alt = "Medium" width = "48"/>
+    </a
+   
 </p>
 <br/>
 
@@ -64,6 +68,10 @@ I spend my free time listening to podcasts/music, reading novels, playing video 
     <a href="https://git-scm.com/">
         <img style = "padding: 0px 20px 0px 10px;" src = "https://github.com/newb-dev-1008/newb-dev-1008/blob/main/Icons/Languages and Frameworks/Git.png" alt = "Git" width = "48"/>
     </a>
+     <a href="https://www.tableau.com/">
+        <img style = "padding: 0px 20px 0px 10px;" src = "https://github.com/RohanMathur17/RohanMathur17/blob/main/Icons/tableau.png" alt = "Tableau" width = "48"/>
+    </a>
+
 
 ## **General GitHub Stats**
 </br>
