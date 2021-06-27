@@ -78,8 +78,8 @@ I spend my free time listening to podcasts/music, reading novels, playing video 
 
 <p align="center">
     <span style="padding: 0px 45px 30px 0px">
-        <a href="https://github.com/RohanMathur17/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanMathur17&count_private=true&show_icons=true&theme=merko" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanMathur17&count_private=true&show_icons=true&theme=radical" />
         </a>
     </span>
 
@@ -88,7 +88,7 @@ I spend my free time listening to podcasts/music, reading novels, playing video 
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMathur17&theme=dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMathur17&theme=radical" />
     </a>
 <p>
 
