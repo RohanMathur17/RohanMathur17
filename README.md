@@ -1,6 +1,6 @@
 # **<p align="center">Hey there! I'm Rohan Mathur.</p>**
 
-I am currently a junior pursuing my B.Tech in Computer Science & Engineering (With Spec. in Big Data & Analytics) at SRM Institute Of Science & Technology, Chennai. I am highly interested in the applications of Data Science, Machine Learning & Deep Learning. A budding Data Scientist, I have been practicing for over 1.5 years in building industry/research relevant projects to enhance my skills in this field. 
+I am currently a senior pursuing my B.Tech in Computer Science & Engineering (With Spec. in Big Data & Analytics) at SRM Institute Of Science & Technology, Chennai. I am highly interested in the applications of Data Science, Machine Learning & Deep Learning. A budding Data Scientist, I have been practicing for over 1.5 years in building industry/research relevant projects to enhance my skills in this field. 
 
 I spend my free time listening to podcasts/music, reading novels, playing video games and cycling.
 
