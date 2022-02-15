@@ -5,8 +5,6 @@ I am currently a senior pursuing my B.Tech in Computer Science & Engineering (Wi
 I spend my free time listening to podcasts/music, reading novels, playing video games and cycling.
 
 
-![](https://komarev.com/ghpvc/?username=RohanMathur17&color=green&label=Profile+Visits)
-
 ## Have A Look At Some Of My Projects
 
 1. [Forecasting US Elections](https://github.com/Data-Science-Community-SRM/Forecasting-US-Elections) - Extraction of tweets and performing sentiment analysis on the presidential candidature of Donald Trump, Joe Biden and Kanye West in the elections held in the US during November, 2020. Correctly predicted the win of Joe Biden.
