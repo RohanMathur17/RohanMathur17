@@ -16,7 +16,6 @@ I spend my free time listening to podcasts/music, reading novels, playing video 
 ## **Connect With Me**
 <br/>
 
-You can check my portfolio website [here]( https://rohanmathur17.github.io/)
 <p align="center">
     <a href="https://twitter.com/RohanMathur_17">
         <img style = "margin: 0px 30px 0px 10px;" src = "https://github.com/newb-dev-1008/newb-dev-1008/blob/main/Icons/Socials/Twitter.png" alt = "Twitter" width = "48"/>
